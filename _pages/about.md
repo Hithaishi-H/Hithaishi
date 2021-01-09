@@ -23,10 +23,10 @@ My Interests
 Education
 ---------------
 * PhD. Coastal Engineering, 2020 
-* *University of of Florida, USA*
+	* *University of of Florida, USA*
 * MSc. Coastal Engineering, 2017 
-* *Delft University of Technology, The Netherlands*
+	* *Delft University of Technology, The Netherlands*
 * BSc. Civil Engineering, 2014 
-* *University of Moratuwa, Sri Lanka*
+	* *University of Moratuwa, Sri Lanka*
 
 
