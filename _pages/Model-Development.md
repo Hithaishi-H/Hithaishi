@@ -1,5 +1,5 @@
 ---
-permalink: /software/
+permalink: /Model-Development/
 title: "Model Development & Coding"
 gallery:
   - url: software/table.png
