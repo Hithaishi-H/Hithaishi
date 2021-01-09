@@ -13,7 +13,7 @@ I am a PhD in Coastal Engineering.
 
 I am a Coastal Engineer with expertise in coastal hydrodynamics and morphodynamic processes. My experties lies in numerical modelling of coastal processes. 
 
-My expertise
+My Interests
 ---------------
 * MetOcean data analyses (waves, tide, etc.)  
 * Numerical modeling (Coastal hydrodynamics and morphodynamics)  
