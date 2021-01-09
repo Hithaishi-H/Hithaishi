@@ -51,5 +51,11 @@ Fabrication of permanant concrete formwork for underwater concreteing
  
  
 ## Field work 
-- Data collection using ADCP and drone imagery at Sapelo Island Estuarine Reserve, GA
+
+### Surveying work 
+
+I have been involved in many survey projects and is competent in using the survey instruments(e.g. Level , Theodolite,Total Station )   
+
+
+Data collection using ADCP and drone imagery at Sapelo Island Estuarine Reserve, GA
 
