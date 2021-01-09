@@ -5,16 +5,16 @@ main:
     url: /research/
 
   - title: "Field Experiance"
-    url: /Field/
+    url: /Field-Experiance/
 
   - title: "Presentations"
-    url: /posts/
+    url: /Presentations/
     
   - title: "Publications"
     url: /publications/
     
   - title: "Model Development"
-    url: /software/
+    url: /Model-Development/
     
   - title: "Resume"
     url: /cv/
