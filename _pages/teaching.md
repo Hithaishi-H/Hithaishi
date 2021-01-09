@@ -13,11 +13,11 @@ The Port of Colombo, Sri Lanka is the busiest harbour in South Asia serving port
 
 <figure>
 
-<img src="{{site.url}}/images/Training/IMG_2233.jpg" alt="R Markdown flowchart"/>
+<img src="{{site.url}}/images/Training/IMG_2233.JPG" alt="Site"/>
 
 <figcaption>
 
-Image courtesy of <a href="https://rmarkdown.rstudio.com/lesson-2.html">RStudio</a>
+Image of site
 
 </figcaption>
 
