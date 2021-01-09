@@ -25,7 +25,7 @@ Aerial view of Unity Container Terminal site
  
  
 <figure>
-<img src="{{site.url}}/images/Training/IMG_1408.JPG" width="10%" height="50%" alt="Site"/>
+<img src="{{site.url}}/images/Training/IMG_1408.JPG" width="10px" height="50px" alt="Site"/>
 <figcaption>
 Settlement in the yard area of the terminal 
 </figcaption>
