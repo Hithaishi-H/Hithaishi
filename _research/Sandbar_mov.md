@@ -1,5 +1,5 @@
 ---
-title: "Sandbars"
+title: "Sandbar Movement"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Sandbars/Example_case.png' alt=''>"
 collection: research
