@@ -15,19 +15,15 @@ The Port of Colombo, Sri Lanka is the busiest harbour in South Asia serving port
 ![](/images/Training/IMG_2233.JPG){:width="50%" .align-center}
 
 <figcaption>
-Aerial view of Unity Container Terminal site 
+Aerial view of Unity Container Terminal construction site 
 </figcaption>
 
+![](/images/Training/IMG_1408.JPG){:width="50%" .align-center}
 
- 
- 
-<figure>
-<img src="{{site.url}}/images/Training/IMG_1408.JPG" width="10px" height="50px" alt="Site"/>
 <figcaption>
-Settlement in the yard area of the terminal 
+Settlement in the yard area of the container terminal 
 </figcaption>
-</figure>
- 
+
 #### Main work comprising at site
 * Dredging (9000 m3) and construction of a rubble embankment along 127 m west revetment.
 * Anchoring of the existing -7.4 m west revetment with anchor rods and tie rods to rectify the settlement.
@@ -37,11 +33,11 @@ Settlement in the yard area of the terminal
 
 
 <figure>
-<img src="{{site.url}}/images/Training/image057.jpg" width="2.5" height="50" alt="Site"/>
+![](/images/Training/image057.jpg){:width="50%" .align-center}
 <figcaption>
-Anchoring of quay wall
+Anchoring of the quay wall against outward movement
 </figcaption>
-</figure>
+
 
 I worked as a trainee Civil Engineer at the site for 6 months assisting day to day construction work and supervision. My training experiance encompased of; 
 * Modification of construction drawings
@@ -49,11 +45,10 @@ I worked as a trainee Civil Engineer at the site for 6 months assisting day to d
 * Supervision of rubble embankement constuction   
 
 <figure>
-<img src="{{site.url}}/images/Training/IMG_2280.JPG" width="2.5" height="50" alt="Site"/>
+![](/images/Training/IMG_2280.JPG){:width="50%" .align-center}
 <figcaption>
 Fabrication of permanant concrete formwork for underwater concreteing 
 </figcaption>
-</figure>
    
  
  
