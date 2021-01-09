@@ -11,17 +11,14 @@ The Port of Colombo, Sri Lanka is the busiest harbour in South Asia serving port
 * Outward movement of the quay wall at the northern and southern ends.
 * Settlement in the yard area of the terminal.
 
-<figure>
 
-<img src="{{site.url}}/images/Training/IMG_2233.JPG" width="2.5" alt="Site"/>
+![](/images/Training/IMG_2233.JPG){:width="50%" .align-center}
 
 <figcaption>
-
 Aerial view of Unity Container Terminal site 
-
 </figcaption>
 
-</figure>
+
  
  
 <figure>
