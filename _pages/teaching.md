@@ -24,7 +24,22 @@ Aerial view of Unity Container Terminal site
 </figure>
  
 
+ 
+<figure>
 
+<img src="{{site.url}}/images/Training/IMG_1408.JPG" width="50%" height="100" alt="Site"/>
+
+<figcaption>
+
+Settlement in the yard area of the terminal 
+
+</figcaption>
+
+</figure>
+ 
+
+ 
+ 
 ## Field work 
 - Data collection using ADCP and drone imagery at Sapelo Island Estuarine Reserve, GA
 
