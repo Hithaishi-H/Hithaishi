@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /Field/
 title: "Field Experiance"
 ---
 
