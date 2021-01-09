@@ -1,7 +1,7 @@
 ---
-title: "Morphodynamic modeling a using phase resolving model"
+title: "Sediment transport models"
 layout: single-portfolio
-excerpt: "<img src='/images/research/SWASH/WL.png' alt=''>"
+excerpt: "<img src='/images/research/sed_trans_mod/intro.tif' alt=''>"
 collection: research
 order_number: 40
 ---
