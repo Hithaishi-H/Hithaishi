@@ -10,10 +10,10 @@ main:
   - title: "Talks and Presentations"
     url: /posts/
     
- - title: "Publications"
+  - title: "Publications"
     url: /publications/
     
-- title: "Coding"
+  - title: "Coding"
     url: /software/
     
   - title: "Resume"
