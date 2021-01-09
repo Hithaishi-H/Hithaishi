@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
+My name is Hithaishi Hewageegana (pronounced He-thai-she Hea-wa-gee-ga-na).
+I am a PhD in Coastal Engineering.
 
+I am a Coastal Engineer with expertise in coastal hydrodynamics and morphodynamic processes. My experties lies in numerical modelling of coastal processes. 
