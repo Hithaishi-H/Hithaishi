@@ -13,7 +13,7 @@ The Port of Colombo, Sri Lanka is the busiest harbour in South Asia serving port
 
 <figure>
 
-<img src="{{site.url}}/images/Training/IMG_2233.JPG" width="50" height="100" alt="Site"/>
+<img src="{{site.url}}/images/Training/IMG_2233.JPG" width="5" height="10" alt="Site"/>
 
 <figcaption>
 
@@ -27,7 +27,7 @@ Aerial view of Unity Container Terminal site
  
 <figure>
 
-<img src="{{site.url}}/images/Training/IMG_1408.JPG" width="50" height="100" alt="Site"/>
+<img src="{{site.url}}/images/Training/IMG_1408.JPG" width="5" height="10" alt="Site"/>
 
 <figcaption>
 
