@@ -1,7 +1,7 @@
 ---
 title: "Numerical modelling of the influence of tides on cross shore sediment dynamics"
 collection: publications
-permalink: /publication/2009-10-01-bayespostest
+permalink: /publication/2020-10-01-CSR
 date: 2020-10-01
 venue: 'Continental Shelf Research'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
