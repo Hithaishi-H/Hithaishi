@@ -1,5 +1,5 @@
 ---
-title: "Sandbar movement modelling"
+title: "Onshore Sandbar movement"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Sandbars/Example_case.png' alt=''>"
 collection: research
