@@ -32,7 +32,7 @@ Settlement in the yard area of the terminal
 </figure>
  
 #### Main work comprising at site
-* Dredging (9000 m3) and construction of a rubble mounted embankment along 127 m west revetment.
+* Dredging (9000 m3) and construction of a rubble embankment along 127 m west revetment.
 * Anchoring of the existing -7.4 m west revetment with anchor rods and tie rods to rectify the settlement.
 * Anchoring -11.0 m North revetment to a 20 m length with anchor and tie rod to rectify settlement.
 * Removing of existing graded rock mound in the yard side along the existing north revetment (20 m )and west revetment (127 m) and concreting with geo-textile layer.
@@ -46,6 +46,18 @@ Anchoring of quay wall
 </figcaption>
 </figure>
 
+I worked as a trainee Civil Engineer at the site for 6 months assisting day to day construction work and supervision. My training experiance encompased of; 
+* Modification of construction drawings
+* Supervision of concreting works (underwater concreteing and fabrication of anchor walls, formwork)
+* Supervision of rubble embankement constuction   
+
+<figure>
+<img src="{{site.url}}/images/Training/IMG_2280.JPG" width="2.5" height="50" alt="Site"/>
+<figcaption>
+Fabrication of permanant concrete formwork for underwater concreteing 
+</figcaption>
+</figure>
+   
  
  
 ## Field work 
