@@ -15,18 +15,18 @@ I am a Coastal Engineer with expertise in coastal hydrodynamics and morphodynami
 
 My expertise
 ---------------
-MetOcean data analyses (waves, tide, etc.)
-Numerical modeling (Coastal hydrodynamics and morphodynamics)
-In-house model development and improvements (Matlab, Fortran)
-GIS analyses
+* MetOcean data analyses (waves, tide, etc.)  
+* Numerical modeling (Coastal hydrodynamics and morphodynamics)  
+* In-house model development and improvements (Matlab, Fortran)  
+* GIS analyses
 
 Education
 ---------------
-PhD. Coastal Engineering, 2020 
-*University of of Florida, USA*
-MSc. Coastal Engineering, 2017 
-*Delft University of Technology, The Netherlands*
-BSc. Civil Engineering, 2014 
-*University of Moratuwa, Sri Lanka*
+* PhD. Coastal Engineering, 2020 
+* *University of of Florida, USA*
+* MSc. Coastal Engineering, 2017 
+* *Delft University of Technology, The Netherlands*
+* BSc. Civil Engineering, 2014 
+* *University of Moratuwa, Sri Lanka*
 
 
