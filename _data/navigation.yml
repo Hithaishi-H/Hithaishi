@@ -7,13 +7,13 @@ main:
   - title: "Field Experiance"
     url: /teaching/
 
-  - title: "Talks & Presentations"
+  - title: "Presentations"
     url: /posts/
     
   - title: "Publications"
     url: /publications/
     
-  - title: "Model Development"
+  - title: "Model Development & Coding"
     url: /software/
     
   - title: "Resume"
