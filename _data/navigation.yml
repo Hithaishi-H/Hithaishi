@@ -1,19 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
     
-  - title: "Research"
+  - title: "Research Projects"
     url: /research/
 
-  - title: "Teaching"
+  - title: "Field Experiance"
     url: /teaching/
 
-  - title: "Software"
-    url: /software/
-
-  - title: "Posts"
+  - title: "Talks and Presentations"
     url: /posts/
+    
+ - title: "Publications"
+    url: /publications/
+    
+- title: "Coding"
+    url: /software/
     
   - title: "Resume"
     url: /cv/

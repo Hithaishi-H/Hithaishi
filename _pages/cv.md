@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 <iframe src="/files/pdf/Resume_Hithaishi_Hewageegana.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/Resume_Hithaishi_Hewageegana.pdf).
+You can download a PDF copy of my Resume [here](/files/pdf/Resume_Hithaishi_Hewageegana.pdf).
