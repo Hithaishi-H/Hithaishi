@@ -24,7 +24,7 @@ Aerial view of Unity Container Terminal construction site
 Settlement in the yard area of the container terminal 
 </figcaption>
 
-#### Main work comprising at site
+#### Work carriedout at site
 * Dredging (9000 m3) and construction of a rubble embankment along 127 m west revetment.
 * Anchoring of the existing -7.4 m west revetment with anchor rods and tie rods to rectify the settlement.
 * Anchoring -11.0 m North revetment to a 20 m length with anchor and tie rod to rectify settlement.
@@ -32,19 +32,17 @@ Settlement in the yard area of the container terminal
 * Restoration of gantry crane foundation.    
 
 
-<figure>
 ![](/images/Training/image057.jpg){:width="50%" .align-center}
 <figcaption>
 Anchoring of the quay wall against outward movement
 </figcaption>
-
 
 I worked as a trainee Civil Engineer at the site for 6 months assisting day to day construction work and supervision. My training experiance encompased of; 
 * Modification of construction drawings
 * Supervision of concreting works (underwater concreteing and fabrication of anchor walls, formwork)
 * Supervision of rubble embankement constuction   
 
-<figure>
+
 ![](/images/Training/IMG_2280.JPG){:width="50%" .align-center}
 <figcaption>
 Fabrication of permanant concrete formwork for underwater concreteing 
