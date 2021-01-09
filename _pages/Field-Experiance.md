@@ -4,12 +4,11 @@ title: "Field Experiance"
 ---
 
 
-## Trainee Civil Engineer
-### Urgent renovation works at Unity Container Terminal, Port of Colombo, Sri Lanka
+## Trainee Civil Engineer at Urgent renovation works at Unity Container Terminal, Port of Colombo, Sri Lanka
+
 The Port of Colombo, Sri Lanka is the busiest harbour in South Asia serving ports across Asia and Africa. The Unity Container terminal(UCT) required renovations to rectify; 
 * Outward movement of the quay wall at the northern and southern ends.
 * Settlement in the yard area of the terminal.
-
 
 ![](/images/Training/IMG_2233.JPG){:width="50%" .align-center}
 
@@ -48,12 +47,11 @@ Fabrication of permanant concrete formwork for underwater concreteing
 </figcaption>
    
  
- 
 ## Field work 
 
 ### Surveying work 
 
-I have been involved in many survey projects and is competent in using the survey instruments(e.g. Level , Theodolite,Total Station )   
+I have been involved in many survey projects and is competent in using the survey instruments(e.g. Level , Theodolite,Total Station ) and post processing of data and preparation of drawings    
 
 
 Data collection using ADCP and drone imagery at Sapelo Island Estuarine Reserve, GA
