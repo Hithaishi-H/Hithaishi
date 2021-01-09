@@ -1,7 +1,7 @@
 ---
-title: "Conflict preemption"
+title: "Tidal Influance"
 layout: single-portfolio
-excerpt: "<img src='/images/research/china_nl.png' alt=''>"
+excerpt: "<img src='/images/research/Tides/Fig11.jpg' alt=''>"
 collection: research
 order_number: 10
 ---
