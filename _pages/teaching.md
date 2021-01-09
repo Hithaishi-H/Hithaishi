@@ -23,18 +23,12 @@ Aerial view of Unity Container Terminal site
 
 </figure>
  
-
  
 <figure>
-
 <img src="{{site.url}}/images/Training/IMG_1408.JPG" width="2.5" height="50" alt="Site"/>
-
 <figcaption>
-
 Settlement in the yard area of the terminal 
-
 </figcaption>
-
 </figure>
  
 #### Main work comprising at site
@@ -43,6 +37,14 @@ Settlement in the yard area of the terminal
 * Anchoring -11.0 m North revetment to a 20 m length with anchor and tie rod to rectify settlement.
 * Removing of existing graded rock mound in the yard side along the existing north revetment (20 m )and west revetment (127 m) and concreting with geo-textile layer.
 * Restoration of gantry crane foundation.    
+
+
+<figure>
+<img src="{{site.url}}/images/Training/image057.jpg" width="2.5" height="50" alt="Site"/>
+<figcaption>
+Anchoring of quay wall
+</figcaption>
+</figure>
 
  
  
