@@ -1,7 +1,7 @@
 ---
-title: "Computer vision"
+title: "Morphodynamic modeling a using phase resolving model"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/SWASH/WL.png' alt=''>"
 collection: research
 order_number: 40
 ---
