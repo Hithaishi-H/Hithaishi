@@ -62,7 +62,7 @@ Contourmap and preliminary construction plan generated from field survey
 ###  Data collection at Sapelo Island Estuarine Reserve, GA
 I was involved in a data collection campaign at Sapelo island marsh and estuarine area. Data collection consisted of drone imagery and ADCP current measurements 
 
-![](/images/Field_Work/IMG_8429.jpg){:width="25%" .align-center}
+![](/images/Field_Work/IMG_8429.jpg){:width="50%" .align-center}
 <figcaption>
-Using drones to collect imagery 
+Using drones to track tracer particles and collect imagery 
 </figcaption>  
