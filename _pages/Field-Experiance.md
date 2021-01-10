@@ -53,7 +53,7 @@ Fabrication of permanant concrete formwork for underwater concreteing
 
 I have been involved in many survey projects and is competent in using the survey instruments(e.g. Level , Theodolite,Total Station ) and post processing of data and preparation of drawings. 
 
-![](/images/Field_Work/Contmap.JPG){:width="50%" .align-center}
+![](/images/Field_Work/Contmap.jpg){:width="50%" .align-center}
 <figcaption>
 Contourmap and preliminary construction plan generated from field survey 
 </figcaption>    
