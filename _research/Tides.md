@@ -28,7 +28,7 @@ Water Level fluctuation
 Water level fluctuations modulate wave orbital velocities, wave-averaged currents and sediment advection velocity, therefore affecting both resuspension of sediments and cross-shore sediment transport.
 
 
-![](/images/research/Tides/Fig_4.jpg){:width="10%".align-center }
+![](/images/research/Tides/Fig_4.jpg){:width="5%".align-center }
 
 <figcaption>
 Modulation sediment dynamics due to Water level fluctuations
@@ -58,7 +58,7 @@ Longshore tidal currents
 
 Similar to water level fluctuations, the tides modualte the sediment concentration and transport 
 
-![](/images/research/Tides/Fig_10.jpg){:width="50%" .align-center }
+![](/images/research/Tides/Fig_10.jpg){:width="70%" .align-center }
 
 <figcaption>
 Modulation sediment dynamics due to tidal currents
