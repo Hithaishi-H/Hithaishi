@@ -8,7 +8,7 @@ order_number: 10
 
 In this research, the influence of tides on cross-shore sediment dynamics of a longshore-uniform beach was studied by means of a 1D numerical model (XBeach). The model was modified to include longshore tidal currents induced by water level gradients. The effect of tides on cross-shore sediment dynamics was quantified by analyzing the change in suspended sediment concentration, sediment advection velocity, and sediment transport. The effect of tides was decoupled into its two main components, i.e., water level fluctuations and tidal currents. 
 
-![](/images/images/research/curvid.gif){: .align-center }
+![](/images/research/Tides/curvid.gif){: .align-center }
 
 <figcaption>
 Longshore tidal currents
