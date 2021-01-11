@@ -19,7 +19,7 @@ Water Level fluctuation
 
 Tidal currents favor tidally-averaged sediment resuspension due to the increase in applied shear stress on the bed.
 
-![](/images/research/Tides/Curvid.gif){: .align-center }
+![](/images/research/Tides/Curvid1.gif){: .align-center }
 
 <figcaption>
 Longshore tidal currents
