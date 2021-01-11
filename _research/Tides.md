@@ -28,10 +28,10 @@ Water Level fluctuation
 Water level fluctuations modulate wave orbital velocities, wave-averaged currents and sediment advection velocity, therefore affecting both resuspension of sediments and cross-shore sediment transport.
 
 
-![](/images/research/Tides/Fig_4.jpg){:width="40%".align-center }
+![](/images/research/Tides/Fig_4.jpg){:width="30%".align-center }
 
 <figcaption>
-modulation sediment dynamics due to Water level fluctuations
+Modulation sediment dynamics due to Water level fluctuations
 </figcaption>
 
 **The intresting point** is that,the **non-linear relationships** between the processes, result in a **net change** in sediment resuspension and transport over the tidal period. 
@@ -39,12 +39,11 @@ modulation sediment dynamics due to Water level fluctuations
 **The net change**  varies with cross-shore location , tidal and wave condition. 
 
 
-![](/images/research/Tides/Fig_5.jpg){:width="60%" .align-center }
+![](/images/research/Tides/Fig_5.jpg){:width="70%" .align-center }
 
 <figcaption>
-Net change in sediment resuspension over the tidal period.
+Net change in sediment resuspension over the tidal period due to WL fluctuations
 </figcaption>
-
 
 
 ## Effect of tidal currents
@@ -57,6 +56,23 @@ Tidal currents favor tidally-averaged sediment resuspension due to the increase 
 Longshore tidal currents
 </figcaption>
 
+Similar to water level fluctuations, the tides modualte the sediment concentration and transport 
+
+![](/images/research/Tides/Fig_10.jpg){:width="30%" .align-center }
+
+<figcaption>
+Modulation sediment dynamics due to tidal currents
+</figcaption>
+
+The tidal currents ***also*** results in a net change in sediement resuspension and transport. The change is dependent upon the tidal and wave conditions, and cross-shore location 
+
+![](/images/research/Tides/Fig_11.jpg){:width="70%" .align-center }
+
+<figcaption>
+Net change in sediment resuspension over the tidal period due to tidal currents
+</figcaption>
+
+## conclusions  
 The effects of water level fluctuations and tidal currents on sediment dynamics vary in the cross-shore direction.
 Tidal currents increase sediment resuspension in deeper water depth, while water level fluctuations control the changes observed in shallow waters. In shallow waters, tidal amplitude is a good indicator of the influence of longshore propagating tides on the cross-shore sediment dynamics of a uniform beach, while in deeper waters, tidal wavelength also plays an important role. The model predictions are able to capture the trends observed in field measurements.
 
