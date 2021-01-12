@@ -72,7 +72,7 @@ The tidal currents ***also*** results in a net change in sediement resuspension 
 Net change in sediment resuspension over the tidal period due to tidal currents
 </figcaption>
 
-## conclusions  
+## Conclusions  
 The effects of water level fluctuations and tidal currents on sediment dynamics vary in the cross-shore direction.
 Tidal currents increase sediment resuspension in deeper water depth, while water level fluctuations control the changes observed in shallow waters. In shallow waters, tidal amplitude is a good indicator of the influence of longshore propagating tides on the cross-shore sediment dynamics of a uniform beach, while in deeper waters, tidal wavelength also plays an important role. The model predictions are able to capture the trends observed in field measurements.
 
