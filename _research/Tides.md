@@ -1,5 +1,5 @@
 ---
-title: "Tidal Influance on sediments"
+title: "Tidal influance on sediments"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Tides/Fig_11.jpg' alt=''>"
 collection: research
