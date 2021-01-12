@@ -12,5 +12,5 @@ Effect of wave shape have been identified as been importnant in onshore sandbar 
 ![](/images/research/Sandbars/Mikevid.gif){: .align-center }
 
 <figcaption>
-Change in wave shape as waves propergate onshore. (Modelled using a phase resolving model -SWASH)
+Change in wave shape and nearbed velocity/acceleration signals as waves propergate onshore. (Modelled using a phase resolving model -SWASH)
 </figcaption>
