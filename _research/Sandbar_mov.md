@@ -14,3 +14,18 @@ Effect of wave shape have been identified as been importnant in onshore sandbar 
 <figcaption>
 Change in wave shape and nearbed velocity/acceleration signals as waves propergate onshore. (Modelled using a phase resolving model -SWASH)
 </figcaption>
+
+## A simplified process-based model for onshore sandbar migration 
+
+This approach takes wave-averaged parameters as input and computes sediment transport processes using a reconstructed intra-wave orbital velocity signal. 
+
+
+![](/images/research/Sandbars/model.gif){: .align-center }
+
+<figcaption>
+Model setup 
+</figcaption>
+
+
+
+The proposed method guarantees good predictive skills for multiple onshore sandbar migration cases without an ad-hoc calibration for each scenario. 
