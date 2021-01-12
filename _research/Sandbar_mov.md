@@ -20,7 +20,7 @@ Change in wave shape and nearbed velocity/acceleration signals as waves properga
 This approach takes wave-averaged parameters as input and computes sediment transport processes using a reconstructed intra-wave orbital velocity signal. 
 
 
-![](/images/research/Sandbars/model.gif){: .align-center }
+![](/images/research/Sandbars/Modelintro.gif){: .align-center }
 
 <figcaption>
 Model setup 
