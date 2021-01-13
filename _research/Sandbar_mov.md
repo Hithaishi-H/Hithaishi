@@ -52,7 +52,7 @@ Model results
 
 The model was also tested on other locations 
 
-![](/images/research/Sandbars/other_locs.jpg){:width="50%" .align-center }
+![](/images/research/Sandbars/other_locs.jpg){: .align-center }
 
 <figcaption>
 Model results for other locations 
