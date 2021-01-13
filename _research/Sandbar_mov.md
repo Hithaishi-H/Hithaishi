@@ -19,7 +19,7 @@ Change in wave shape and nearbed velocity/acceleration signals as waves properga
 
 This approach takes wave-averaged parameters as input and computes sediment transport processes using a reconstructed intra-wave orbital velocity signal. 
 
-![](/images/research/Sandbars/F1_vel_recon.png){: .align-center }
+![](/images/research/Sandbars/F1_vel_recon.png){:width="50%" .align-center }
 
 <figcaption>
 Velocity reconstruction
@@ -35,7 +35,7 @@ Model setup
 
 Model results for the test cases
 
-![](/images/research/Sandbars/F6_test_examples.png){: .align-center }
+![](/images/research/Sandbars/F6_test_examples.png){:width="50%" .align-center }
 
 <figcaption>
 Test results
@@ -43,7 +43,7 @@ Test results
 
 The model was tested on multiple onshore sandbar migration cases (101 cases) at Duck, NC. The proposed method guarantees good predictive skills for the cases without an ad-hoc calibration for each scenario. 
 
-![](/images/research/Sandbars/bar_metrics_r2.png){: .align-center }
+![](/images/research/Sandbars/bar_metrics_r2.png){:width="50%" .align-center }
 
 <figcaption>
 Model results
@@ -52,7 +52,7 @@ Model results
 
 The model was also tested on other locations 
 
-![](/images/research/Sandbars/other_locs.jpg){: .align-center }
+![](/images/research/Sandbars/other_locs.jpg){:width="50%" .align-center }
 
 <figcaption>
 Model results for other locations 
