@@ -28,7 +28,7 @@ Model setup
 
 The model was tested on multiple onshore sandbar migration cases (101 cases) at Duck, NC. The proposed method guarantees good predictive skills for the cases without an ad-hoc calibration for each scenario. 
 
-![](/images/research/Tides/bar_metrics_r2.png){: .align-center }
+![](/images/research/Sandbars/bar_metrics_r2.png){: .align-center }
 
 <figcaption>
 Model results
