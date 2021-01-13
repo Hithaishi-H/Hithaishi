@@ -26,6 +26,15 @@ This approach takes wave-averaged parameters as input and computes sediment tran
 Model setup 
 </figcaption>
 
+Model results for the test cases
+
+![](/images/research/Sandbars/F6_test_examples.tif){: .align-center }
+
+<figcaption>
+Test results
+</figcaption>
+
+
 The model was tested on multiple onshore sandbar migration cases (101 cases) at Duck, NC. The proposed method guarantees good predictive skills for the cases without an ad-hoc calibration for each scenario. 
 
 ![](/images/research/Sandbars/bar_metrics_r2.png){: .align-center }
@@ -33,4 +42,5 @@ The model was tested on multiple onshore sandbar migration cases (101 cases) at 
 <figcaption>
 Model results
 </figcaption>
+
 
