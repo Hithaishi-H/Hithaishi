@@ -41,8 +41,6 @@ Model results for the test cases
 Test results
 </figcaption>
 
-
-
 The model was tested on multiple onshore sandbar migration cases (101 cases) at Duck, NC. The proposed method guarantees good predictive skills for the cases without an ad-hoc calibration for each scenario. 
 
 ![](/images/research/Sandbars/bar_metrics_r2.png){: .align-center }
@@ -50,5 +48,17 @@ The model was tested on multiple onshore sandbar migration cases (101 cases) at 
 <figcaption>
 Model results
 </figcaption>
+
+
+The model was also tested on other locations 
+
+![](/images/research/Sandbars/other_locs.jpg){: .align-center }
+
+<figcaption>
+Model results for other locations 
+</figcaption>
+
+
+
 
 
