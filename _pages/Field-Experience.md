@@ -1,6 +1,6 @@
 ---
-permalink: /Field-Experiance/
-title: "Field Experiance"
+permalink: /Field-Experience/
+title: "Field Experience"
 ---
 
 
